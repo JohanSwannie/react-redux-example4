@@ -95,6 +95,13 @@ form {
   flex-direction: column;
 }
 
+input,
+select,
+textarea,
+article {
+  background: rgba(255, 192, 20, 0.1);
+}
+
 textarea {
   height: 200px;
 }
